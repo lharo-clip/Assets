@@ -1,0 +1,14 @@
+{
+  "name": "og-image",
+  "version": "1.0.0",
+  "description": "Trial and error for package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "lharo",
+  "license": "ISC",
+  "dependencies": {
+    "node-html-to-image": "^3.2.4"
+  }
+}
